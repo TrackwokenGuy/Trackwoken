@@ -21,3 +21,5 @@
  As you do, the next talents will be updated
 
 ### Forgive the messy code, I was in a bit of a rush
+
+### Big thanks to the authors of Deepwoken Builder, as I made ample use of their API
